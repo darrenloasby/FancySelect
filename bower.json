@@ -2,16 +2,16 @@
   name: 'fancy-select',
   description: 'Fancy select thingy',
   homepage: 'https://da.rrenloas.by',
-  main: 'fancySelect.js,fancySelect.css',
+  main: ['fancySelect.js,fancySelect.css'],
   keywords: [
-    'select'
+    'select',
+    'fancy'
   ],
   license: 'MIT',
   ignore: [  ],
   dependencies: {
   },
   devDependencies: {
-
   },
   resolutions: {
   },
