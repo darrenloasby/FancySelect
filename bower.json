@@ -1,0 +1,23 @@
+{
+  name: 'fancy-select',
+  description: 'Fancy select thingy',
+  version: '0.3.23',
+  author: 'Artur Arseniev',
+  homepage: 'none',
+  main: 'fancySelect.js,fancySelect.css',
+  keywords: [
+    'select'
+  ],
+  license: 'MIT',
+  ignore: [  ],
+  dependencies: {
+  },
+  devDependencies: {
+
+  },
+  resolutions: {
+  },
+  authors: [
+    'Darren Loasby <darren.loasby@gmail.com>'
+  ]
+}
