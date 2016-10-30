@@ -1,9 +1,7 @@
 {
   name: 'fancy-select',
   description: 'Fancy select thingy',
-  version: '0.3.23',
-  author: 'Artur Arseniev',
-  homepage: 'none',
+  homepage: 'https://da.rrenloas.by',
   main: 'fancySelect.js,fancySelect.css',
   keywords: [
     'select'
